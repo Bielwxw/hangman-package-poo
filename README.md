@@ -1,3 +1,9 @@
-# jogo-da-forca-poo
+# Jogo da Forca POO
+Projeto de POO realizado para o aperfeiçoamento dos conhecimentos diciplinares em forma de um jogo divertido.
 
-Este repositório contém o código-fonte e os recursos para um divertido e educativo jogo da forca desenvolvido em JavaScript, utilizando os princípios da Programação Orientada a Objetos (POO). O jogo foi criado para ajudar desenvolvedores a praticar conceitos fundamentais de POO enquanto criam uma aplicação interativa.
+## Colaboradores
+| Função | Nome |
+|--------|------|
+| Orientador | Ricardo Rubens (RR) |
+| Aluno | Ian dos Santos (Café) |
+| Aluno | Gabriel Rodrigues (Ghost) |
