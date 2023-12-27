@@ -5,8 +5,8 @@ Projeto de POO realizado para o aperfeiçoamento dos conhecimentos diciplinares 
 ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 ## Colaboradores
-| Função | Nome |
-|--------|------|
-| Orientador | Ricardo Rubens (RR) |
-| Aluno | Ian dos Santos (Café) |
-| Aluno | Gabriel Rodrigues (Ghost) |
+| Função | Nome | Codenome |
+|--------|------|----------|
+| Orientador | Ricardo Rubens | RR |
+| Aluno | Ian dos Santos | Café |
+| Aluno | Gabriel Rodrigues | Ghost |
