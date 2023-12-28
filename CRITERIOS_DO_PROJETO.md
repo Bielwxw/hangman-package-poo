@@ -2,7 +2,7 @@
 ## Curso Técnico em Desenvolvimento de Sistemas
 ### Disciplina de Programação Orientada a Objetos
 #### Prof. MSc. Ricardo Nunes
-- Email: ricardo@ifal.edu.br
+#### ricardo@ifal.edu.br
 
 ---
 
