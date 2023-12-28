@@ -11,7 +11,7 @@ Projeto de POO realizado para o aperfeiçoamento dos conhecimentos diciplinares 
 | Aluno | Ian dos Santos | Café |
 | Aluno | Gabriel Rodrigues | Ghost |
 
-## Links
+## Links 📌
 ### Dicionario
 https://api.dicionario-aberto.net
 
