@@ -3,6 +3,9 @@ Projeto de POO realizado para o aperfeiçoamento dos conhecimentos diciplinares 
 
 ![](https://img.shields.io/badge/Node.js-2B8244?style=for-the-badge&logo=node.js&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+<img src="https://www2.ifal.edu.br/acesso-a-sistemas/logo2.png/@@images/image.png" alt="logo-ifal" style="width:50px; height:30px;"/>
+
+
 
 ## Colaboradores 🤝🏽
 | Função | Nome | Codenome |
