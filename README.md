@@ -11,5 +11,9 @@ Projeto de POO realizado para o aperfeiçoamento dos conhecimentos diciplinares 
 | Aluno | Ian dos Santos | Café |
 | Aluno | Gabriel Rodrigues | Ghost |
 
-# Links
+## Links
+### Dicionario
 https://api.dicionario-aberto.net
+
+### Boneco
+https://gist.github.com/chrishorton/8510732aa9a80a03c829b09f12e20d9c
