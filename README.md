@@ -16,7 +16,7 @@ Projeto de POO realizado para o aperfeiçoamento dos conhecimentos diciplinares 
 
 ## Mapa Conceitual e Exemplo Prático 🖼️
 
-![Mapa conceitual do Projeto](./img/mapa-conceitual.png)
+![Mapa conceitual do Projeto](./mapa-conceitual.png)
 
 ## Referência 📌
 ### Dicionario

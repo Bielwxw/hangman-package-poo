@@ -2,10 +2,10 @@
   "name": "jogo-da-forca-poo",
   "version": "1.0.0",
   "description": "Projeto de POO realizado para o aperfeiçoamento dos conhecimentos diciplinares em forma de um jogo divertido.",
-  "main": "app.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node app.js"
+    "start": "node index.js"
   },
   "keywords": [],
   "author": "Ian dos Santos e Gabriel Rodrigues",
