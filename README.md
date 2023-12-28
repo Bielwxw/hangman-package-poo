@@ -14,7 +14,11 @@ Projeto de POO realizado para o aperfeiçoamento dos conhecimentos diciplinares 
 | Aluno | Ian dos Santos | Café |
 | Aluno | Gabriel Rodrigues | Ghost |
 
-## Links 📌
+## Mapa Conceitual e Exemplo Prático 🖼️
+
+![Mapa conceitual do Projeto](./img/mapa-conceitual.png)
+
+## Referência 📌
 ### Dicionario
 https://api.dicionario-aberto.net
 
