@@ -1,65 +1,13 @@
-// const vida = "⨂ ⨂ ⨂ ❤ ❤ ❤"
-const vida = "⊗ ⊗ ⊗ ❤ ❤ ❤"
-// const vida = "⊠ ⊠ ⊠ ❤ ❤ ❤"
+const prompt = require('prompt-sync') ({sigint: false})
+const json = require('./skinForca.json')
 
-const text = 
-`1)
-________
-|    I
-|    O
-|   /|\\
-|   / \\
-|__________
-${vida}
+opt = 0
+while (true) {
+  opt = prompt('>> ');
+  if (opt === '7') break;
 
-2)
- _________
-  |    I
-  |    O
-  |   /|\\
-  |   / \\
-__|_________
-‾‾‾‾‾‾‾‾‾‾‾‾
-${vida}
-
-3)
-  ________
-   |    ⁞ 
-   |    O
-   |   /|\\
-   |   / \\
-___|_________
-‾‾‾‾‾‾‾‾‾‾‾‾‾
-${vida}
-
-4)
-  _Ϙ______
- ∕ |   ⁞ 
-   |   O
-   |  /|\\
-   |  / \\
-___|_________
-‾‾‾‾‾‾‾‾‾‾‾‾‾
-${vida}
-
-5)
-  /T‾‾‾‾T‾‾
-   |    O
-   |   /|\\
-   |   / \\
-___|_________
-‾‾‾‾‾‾‾‾‾‾‾‾‾
-${vida}
-
-6)
-  +----+
-  |    |
-  |    O
-  |   /|\\
-  |   / \\
-  |
-===========
-${vida}
-`
-
-console.log(text)
+  const skin = json[`skin${opt}`];
+  for (const key in skin) {
+    console.log(skin[key])
+  }
+}
