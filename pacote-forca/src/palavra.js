@@ -22,13 +22,18 @@ class Palavra {
     const listaLetras = txt.split('');
     const letra = letraUser.toUpperCase();
 
-    if (!listaLetras.includes(letra)) return false;
+    if (listaLetras.includes(letra)) return true;
+
+    return false;
+  }
+  colocarLetra(letra) {
+    const txt = this._palavraSecreta.join('').normalize("NFD").replace(/[\u0300-\u036f]/g, '');
+    const listaLetras = txt.split('');
 
     listaLetras.forEach((letraDaLista, index) => {
       if (letraDaLista !== letra) return;
       this._posicao[index] = this._palavraSecreta[index];
     });
-    return true;
   }
 }
 
