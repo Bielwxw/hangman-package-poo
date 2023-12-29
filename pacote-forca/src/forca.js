@@ -17,7 +17,7 @@ class Forca {
     this._indexSkin = index;
   }
   getSkinAtual() {
-    const skin = this._todasAsSkins()[this.getIndexSkin()]
+    const skin = this._todasAsSkins()[this.getIndexSkin()];
     return skin[this.getEstado()];
   }
   skinAnterior(index) {
@@ -36,3 +36,5 @@ class Forca {
     this._todasAsSkins.push(skin);
   }
 }
+
+module.exports = Forca;
