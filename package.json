@@ -4,6 +4,8 @@
   "description": "Projeto de POO realizado para o aperfeiçoamento dos conhecimentos diciplinares em forma de um jogo divertido.",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
+    "install": "cd jogo-terminal && npm i && cd.. && cd jogo-site/backend npm i",
+    "project": "npm run install && code jogo-terminal && code jogo-site && code pacote-forca",
     "terminal": "node jogo-terminal/app.js",
     "site": "node jogo-site/app.js"
   },
