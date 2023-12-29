@@ -18,6 +18,27 @@ Projeto de POO realizado para o aperfeiçoamento dos conhecimentos diciplinares 
 
 ![Mapa conceitual do Projeto](./mapa-conceitual.png)
 
+## Comandos
+Instalar pacotes necessários em todo o projeto (diretório geral)
+
+    npm run install
+
+Instalar pacotes em todo o projeto + abrir cada pasta em uma janela do VS Code (diretório geral)
+
+    npm run project
+
+Inicia o projeto jogo-terminal (diretório geral)
+
+    npm run terminal
+
+Inicia o projeto jogo-site (diretório geral)
+
+    npm run site
+
+Inicia o projeto expecifico (diretório jogo-site ou jogo-terminal)
+
+    npm run start
+
 ## Referência 📌
 ### Dicionario
 https://api.dicionario-aberto.net
