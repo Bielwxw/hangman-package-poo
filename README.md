@@ -40,8 +40,6 @@ Inicia o projeto expecifico (diretório jogo-site ou jogo-terminal)
     npm run start
 
 ## Referência 📌
-### Dicionario
-https://api.dicionario-aberto.net
 
 ### Boneco
 https://gist.github.com/chrishorton/8510732aa9a80a03c829b09f12e20d9c
