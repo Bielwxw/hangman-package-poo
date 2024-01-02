@@ -7,6 +7,9 @@ class Forca {
   getEstado() {
     return this._estado;
   }
+  setEstado(estado) {
+    this._estado = estado;
+  }
   getTodasAsSkins() {
     return this._todasAsSkins;
   }
@@ -20,13 +23,13 @@ class Forca {
     const skin = this._todasAsSkins()[this.getIndexSkin()];
     return skin[this.getEstado()];
   }
-  skinAnterior(index) {
+  skinAnterior() {
     const skinQnt = this.getTodasAsSkins().length;
     const index = this.getIndexSkin() - 1;
     const result = index > 0 ? index : skinQnt - 1;
     this.setIndexSkin(result);
   }
-  skinPosterior(index) {
+  skinPosterior() {
     const skinQnt = this.getTodasAsSkins().length;
     const index = this.getIndexSkin() + 1;
     const result = index < skinQnt ? index : 0;
