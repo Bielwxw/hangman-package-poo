@@ -1,4 +1,5 @@
 # Jogo da Forca POO 🎮🧑🏻‍💻✨
+
 Projeto de POO realizado para o aperfeiçoamento dos conhecimentos diciplinares em forma de um jogo divertido.
 
 ![Logo do Node.js](https://img.shields.io/badge/Node.js-2B8244?style=for-the-badge&logo=node.js&logoColor=white)
@@ -13,11 +14,12 @@ Projeto de POO realizado para o aperfeiçoamento dos conhecimentos diciplinares 
 
 - [**Projeto no Terminal**](https://github.com/IanSantosOS/hangman-terminal)
 
-- [**Projeto no Site**](https://github.com/IanSantosOS/hangman-website)
+- ~~Projeto no Site~~
 
 
 
 ## Colaboradores 🤝🏽
+
 <img align="right" height="150px" src="https://media4.giphy.com/media/v1.Y2lk PTc5MGI3NjExd2VycTI3dzRyOWgxd2FvdzRlaHZyb2tpemU1ZHZnaDd0NWdscTBzNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/utfeiHQ7CcpyRtXla6/giphy.gif">
 
 | Função | Nome | Codenome |
