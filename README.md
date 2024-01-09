@@ -1,6 +1,6 @@
 # Jogo da Forca POO 🎮🧑🏻‍💻✨
 
-Projeto de POO realizado para o aperfeiçoamento dos conhecimentos diciplinares em forma de um jogo divertido.
+Uma biblioteca geral criada para realização de um projeto de POO no IFAL.
 
 ![Logo do Node.js](https://img.shields.io/badge/Node.js-2B8244?style=for-the-badge&logo=node.js&logoColor=white)
 ![Logo do JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -27,9 +27,3 @@ Projeto de POO realizado para o aperfeiçoamento dos conhecimentos diciplinares 
 | Orientador | Ricardo Rubens | RR |
 | Aluno | Ian dos Santos | Café |
 | Aluno | Gabriel Rodrigues | Ghost |
-
-
-
-## Mapa Conceitual e Exemplo Prático 🖼️
-
-![Mapa conceitual do Projeto](./mapa-conceitual.png)
